@@ -55,13 +55,7 @@
 
 </td></tr></table>  
 
-<br/>  
 
-
-## Connect with me  
-  
-
-<br/>  
 
 
 ## Github Stats  
@@ -69,11 +63,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
 
 
 
