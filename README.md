@@ -9,7 +9,7 @@
 - 🔭 I’m currently studying  
   
 
-- 🌱 I’m currently learning Front-End Development   
+- 🌱 I’m currently learning Mobile Development 
   
 
 - ⚡ Spanish and English  
