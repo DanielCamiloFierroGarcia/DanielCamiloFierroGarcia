@@ -67,8 +67,6 @@
 
 
 
-### I like to listen...  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1wulc590jztl9nggbf5t7uxhh&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <br/>  
 
